@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26810558/README.md)
 # 🎮 Pedal Vision
 
 > Control racing simulators using only a webcam — no expensive hardware needed.
@@ -72,13 +71,13 @@ MARGEM_X      = 120  # horizontal search zone for each tracker (pixels)
 
 ## 🔧 Hardware Suggestions
 
-You need something visible on camera attached to each foot. Some options:
+You need something visible on camera that moves with your foot. Some simple options:
 
-- 🥇 Carabiners or heavy objects on a string (stable, easy to track)
-- 🥈 Colored tape on your shoe
-- 🥉 Any distinct object — a bottle cap, a coin, anything with contrast
+- 🥇 A small heavy object (like a fishing weight or a coin roll) tied to a string — gravity keeps it stable and returns it to rest position naturally
+- 🥈 Any object on a string with an elastic band pulling it back — the elastic acts as a return spring, making the movement consistent
+- 🥉 Any small distinct object attached to your foot — what matters is that it moves vertically when you press down
 
-A physical pedal built from a wooden board and a hinge would give the most consistent results and is a natural next step for this project.
+The heavier the object, the more stable the tracking. A simple physical pedal (wooden board + hinge) is the ideal next step.
 
 ---
 
