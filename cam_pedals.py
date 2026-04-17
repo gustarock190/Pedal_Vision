@@ -11,7 +11,7 @@
 #   3. Clique no marcador do ACELERADOR
 #   4. Clique no marcador do FREIO
 #   5. Mova os objetos — os pedais respondem!
-#
+# 
 # Teclas: R = resetar | Q = sair
 # =============================================================================
 
