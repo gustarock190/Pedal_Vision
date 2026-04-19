@@ -7,7 +7,7 @@
 ![demo](assets/demo1.jpg)
 ![demo2](assets/demo2.jpg)
 
-![videoDemo](assets/mp4demo1.mp4)
+![videoDemo](assets/mp4demo1.gif)
 ---
 
 ## 💡 The Idea
