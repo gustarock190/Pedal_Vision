@@ -6,6 +6,7 @@
 
 ![demo](assets/demo1.jpg)
 ![demo2](assets/demo2.jpg)
+---
 In the LEFT side, i'm moving the dots. Right side, the Software Window.
 ![videoDemo](assets/mp4demo1.gif)
 ---
