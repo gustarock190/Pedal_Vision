@@ -10,6 +10,9 @@
 In the LEFT side, i'm moving the dots. Right side, the Software Window.
 ![videoDemo](assets/mp4demo1.gif)
 ---
+## 🔩 Hardware Concept
+
+![pedal concept](assets/pedal_concept.gif)
 
 ## 💡 The Idea
 
